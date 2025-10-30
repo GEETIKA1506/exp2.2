@@ -130,5 +130,5 @@ Use Ctrl + C to terminate input if stuck (for some terminals).
 
 👨‍💻 Author
 
-Your Name
+Geetika Srivastava
 Java Programming Assignment – Web Applications Using Servlets and JSP (Part A, B & C)
